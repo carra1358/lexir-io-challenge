@@ -1,14 +1,18 @@
 # Lexir | Frontend Developer Challenge
 
-# Level | Junior
+## Level | Junior
 
-# Tech
+## Tech
 
 ![Next](https://shields.io/badge/madewith-Next-teal)
 ![Typescript](https://shields.io/badge/madewith-TypeScript-blue)
 ![Strorybook](https://shields.io/badge/madewith-Storybook-pink)
 ![Tailwind](https://shields.io/badge/madewith-Tailwind-green)
 
+## Deploy
+
+- [Project](https://lexir-io-challenge-r4c18cgvg-carra1358.vercel.app/)
+- [Components](https://63168b9caf4a606aeee795df-ogrjwlptzb.chromatic.com/?path=/story/lexir-calltoaction--primary)
  
 ## Usage
 
@@ -16,21 +20,25 @@
 - yarn install
 - yarn run dev | yarn run build
 
-## Methodologie
+## Methodology
 
 1. Analyse
 
-  - Analyse Design on figma 
-  - Download assets
-  - Tailwind configuration file 
-  - Read documentations on the required stack
+   - Analyse Design on figma 
+   - Download assets
+   - Tailwind configuration file 
+   - Read documentations on the required stack
 
 2. Test
-  - 
-   - Use Storybook to test Tailwind implementation 
 
-3. 
-Create components outside to the Project with Storybook 
+   - Build components outside of project with Storybook
+   - Use Storybook to test Tailwind implementation and components Props and architecture
 
-4. 
-Build the view on Lexir forked repository
+3. Build
+
+   - fork and install Lexir repository
+   - add Tailwind, confing, assets and preBuild components
+   - Build the view
+
+## Author
+Amandine Carreno.
