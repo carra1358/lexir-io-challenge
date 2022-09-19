@@ -9,6 +9,10 @@
 ![Strorybook](https://shields.io/badge/madewith-Storybook-pink)
 ![Tailwind](https://shields.io/badge/madewith-Tailwind-green)
 
+
+## Deploy 
+
+
  
 ## Usage
 
@@ -26,11 +30,15 @@
   - Read documentations on the required stack
 
 2. Test
-  - 
-   - Use Storybook to test Tailwind implementation 
 
-3. 
-Create components outside to the Project with Storybook 
+   - Build components outside of project with Storybook
+   - Use Storybook to test Tailwind implementation and components Props and architecture
 
-4. 
-Build the view on Lexir forked repository
+3. Build
+
+   - fork and install Lexir repository
+   - add Tailwind, confing, assets and preBuild components
+   - Build the view
+
+# Author
+Amandine Carreno.
